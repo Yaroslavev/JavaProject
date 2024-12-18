@@ -1,0 +1,8 @@
+{
+  "DatabaseConfig": {
+    "host": "ep-autumn-mountain-a2a8z358.eu-central-1.aws.neon.tech",
+    "username": "contactsDb_owner",
+    "password": "2EY7OrRTbeVc",
+    "name": "contactsDb"
+  }
+}
